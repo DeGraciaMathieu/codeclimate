@@ -19,7 +19,9 @@ Route::get('/', function () {
             if (true) {
                 if (true) {
                     if (true) {
-                        //
+                        if (true) {
+                            //
+                        }
                     }
                 }
             }
