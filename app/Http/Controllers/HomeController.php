@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
-    public function index($a, $b, $c, $d, $e)
+    public function index($a, $b, $c, $d, $e, $f, $g)
     {
         //
     }
